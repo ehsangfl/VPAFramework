@@ -7,4 +7,5 @@ this framework contains some modules for xamarin forms projects
 3- AwesomeIconLabel
 4- Extend Entry control
 5- Extend Button Control
+
  
